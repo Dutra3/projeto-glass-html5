@@ -1,17 +1,15 @@
 section#conteudo {
     width: 1000px;
-    margin: auto;
+    height: auto;
+    margin-top: 0px;
+    margin-left: 500px;
+    margin-bottom: 225px;
 }
 
 iframe#frame-spec {
-    width: 420px;
-    height: 290px;
+    width: 440px;
+    height: 300px;
     border: none;
-    overflow: hidden;
-}
-
-iframe#frame-spec::-webkit-scrollbar-corner {
-    display: none;
 }
 
 /* devo perguntr paar o mrco como resolver isso */
